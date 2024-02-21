@@ -30,7 +30,7 @@
 	align-items: center;
 	gap: 10px;
 
-	transition: border-color .2s ease-in;
+	transition: border-color 0.2s ease-in;
 
 	&::before {
 		content: '';
@@ -63,7 +63,7 @@
 	align-items: center;
 	gap: 5px;
 
-	transition: box-shadow .2s ease-in-out, border-color .2s ease-in-out;
+	transition: box-shadow 0.2s ease-in-out, border-color 0.2s ease-in-out;
 
 	&:hover {
 		box-shadow: 0 3px 15px 0 rgba(132, 213, 44, 0.2);
@@ -73,4 +73,3 @@
 .input-search {
 	width: 100%;
 }
-
