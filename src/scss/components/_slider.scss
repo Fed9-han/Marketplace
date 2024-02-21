@@ -1,0 +1,37 @@
+
+.noUi-target {
+    background: #30303d !important;
+    border-radius: 3px !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.noUi-horizontal {
+    height: 4px !important;
+}
+.noUi-horizontal .noUi-handle {
+    width: 16px !important;
+    height: 16px !important;
+    right: -10px !important;
+    top: -6px;
+}
+
+.noUi-handle {
+    border: none !important;
+    border-radius: 50% !important;
+    background: linear-gradient(150deg, #85d62d 0%, #6bab2b 100%) !important;
+    cursor: pointer !important;
+    box-shadow: none !important;
+}
+
+
+
+.noUi-handle:before, .noUi-handle:after {
+    content: "";
+    display: none !important;
+
+}
+
+.noUi-connect {
+    background: #7acb22 !important;
+}
