@@ -1,0 +1,43 @@
+.filter {
+	padding-bottom: 30px;
+	// .filter__content
+
+	&__content {
+		display: flex;
+		align-items: center;
+		gap: 30px;
+	}
+
+	// .filter__result
+
+	&__result {
+	}
+
+	// .filter__list
+
+	&__list {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+		flex-wrap: wrap;
+	}
+
+	// .filter__item
+
+	&__item {
+	}
+}
+
+.filter-btn {
+	display: flex;
+	align-items: center;
+	gap: 2px;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 135%;
+
+	border-radius: 20px;
+	padding: 5px 8px;
+	box-shadow: inset -5px -5px 16px 0 rgba(138, 138, 138, 0.09);
+	background: #297019;
+}
