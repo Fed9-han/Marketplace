@@ -7,3 +7,7 @@ scss, bem(не идельно, делал быстро), Добавлены хо
 
 Что можно улучшить:
 Сделать адаптив (на clamp()), доделать JS, улучшить СЕО, структуировать проект(переменные, отдельные общие классы(повторяющиеся, например для текста) и прочее,) и много чего еще
+
+
+github-pages: https://fed9-han.github.io/Marketplace/
+git-hub code: https://github.com/Fed9-han/Marketplace/tree/main
