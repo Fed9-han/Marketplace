@@ -37,6 +37,9 @@
 	"browserslist": [
 		"last 5 versions"
 	],
+	"scripts": {
+		"deploy": "gh-pages -d build"
+	},
 	"dependencies": {
 		"gh-pages": "^6.1.1",
 		"nouislider": "^15.7.1"
